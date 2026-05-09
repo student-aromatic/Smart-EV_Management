@@ -1,5 +1,5 @@
 # Smart-EV_Management
-This is a project of creating a Smart EV system based on the data of IEEE.
+This is the project of creating a Smart EV system based on the data of IEEE.
 <br>
 Team-Current Crew
 <br>
@@ -14,5 +14,7 @@ Backend-Suryansh Soni
 Backend-Uday Sharma
 <br>
 presenter-Tanishq Agarwal
+
+
 
 
